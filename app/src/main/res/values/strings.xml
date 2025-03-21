@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Практическая работа №3</string>
+    <string name="something">Какой-то текст</string>
+    <string name="hello_world">Привет</string>
+</resources>
